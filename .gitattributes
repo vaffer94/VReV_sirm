@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*/Sirm Scene.unity filter=lfs diff=lfs merge=lfs -text
+*/SimpleITKCSharpNative.dll filter=lfs diff=lfs merge=lfs -text
